@@ -14,8 +14,8 @@ Nina da Hora ajuda a popularizar discussões sobre como algoritmos podem reprodu
 
 ## O que aprendi sobre Git e GitHub
 
-git init para iniciar um repositório
-git status para verificar o status do projeto
-git add para adicionar um arquivo 
-git commit para salvar uma versão das alterações no histórico
-git push para envia alterações para o GitHub.
+- git init para iniciar um repositório
+- git status para verificar o status do projeto
+- git add para adicionar um arquivo 
+- git commit para salvar uma versão das alterações no histórico
+- git push para envia alterações para o GitHub.
